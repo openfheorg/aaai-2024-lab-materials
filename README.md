@@ -53,12 +53,12 @@ Prerequisite knowledge includes proficiency in Python programming, a grasp of lo
 
 **In no particular order**
 
-![Ian Quah]()
+<img src="./assets/profile_quah.png" width="50%" height="50%" />
 
-![Yuriy Polyakov](./assets/polyakov_headshot.png)
+<img src="./assets/polyakov_headshot.png" width="50%" height="50%" />
 
 Yuriy Polyakov is the Vice President of Cryptography and a Principal Scientist at Duality Technologies. He is a project lead for OpenFHE software library project and serves on the Steering Committee of the HomomorphicEncryption.org standardization consortium. His research has been funded by DARPA, IARPA, NIH, Simons Foundation, and Sloan Foundation.
 
-![Sukanya Mandal](./assets/sukanya-01-min.jpeg)
+<img src="./assets/sukanya-01-min.jpeg" width="50%" height="50%" />
 
 Sukanya, a Research Engineer and Tech Lead, specializes in driving innovation in Data and AI. She has led teams in developing Federated Learning across diverse domains, focusing on its application in Edge AI. Her work involves extensive research and development, creating prototypes, solutions, and architecting data systems for industrial domains. She actively contributes to OpenFHE
