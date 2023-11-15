@@ -55,6 +55,8 @@ Prerequisite knowledge includes proficiency in Python programming, a grasp of lo
 
 <img src="./assets/profile_quah.png" width="50%" height="50%" />
 
+Ian Quah is a Ph.D. student at the University of Washington's Ahmed Lab, working on deep reinforcement learning and biologically plausible deep learning. He actively contributes to OpenFHE, focusing on the application of fully homomorphic encryption in machine learning, with an emphasis on outreach and education.
+
 <img src="./assets/polyakov_headshot.png" width="50%" height="50%" />
 
 Yuriy Polyakov is the Vice President of Cryptography and a Principal Scientist at Duality Technologies. He is a project lead for OpenFHE software library project and serves on the Steering Committee of the HomomorphicEncryption.org standardization consortium. His research has been funded by DARPA, IARPA, NIH, Simons Foundation, and Sloan Foundation.
