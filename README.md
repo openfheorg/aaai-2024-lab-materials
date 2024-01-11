@@ -10,40 +10,44 @@ The tutorial covers essential FHE concepts related to ML such as noise accumulat
 
 ## Tutorial Outline
 
-**Lab Discussion: Comparing and Contrasting PPML Methods** (15 minutes)
+**Lab Discussion: Comparing and Contrasting PPML Methods** (8:30 - 8:45 | 15 minutes)
 
 - Federated Learning
 - Split Learning
 - Differential Privacy
+- Secure multi-party computation (MPC)
 
-**Comparing and Contrasting OpenFHE to Existing FHE Libraries** (10 minutes)
-
-**Spinning Up in Homomorphic Encryption** (45 minutes)
+**Spinning Up in Homomorphic Encryption** (8:45 - 9:45 | 1 hour)
 
 - Overview of FHE schemes
 - Overview of problem setups and collaboration scenarios
 - In-depth practitioner's introduction to the CKKS approximate-number scheme
 - In-depth practitioner's introduction to CKKS crypto-parameters and how they affect ML applications
 
-**The OpenFHE Library** (45 minutes)
+**Comparing and Contrasting OpenFHE to Existing FHE Libraries** (9:45 - 9:55 | 10 minutes)
+
+**The OpenFHE Library** (9:55 - 10:40 | 45 minutes)
 
 - Discussion on the underlying design principles and inner workings
 - Discussion on the development plans including the NodeJS port, the Python port, and the Google Transpiler work
 
-**Hands-on: Training an Encrypted Logistic Regression Model in the OpenFHE Framework** (45 minutes)
+**Quick Break** (10:40 - 10:55 | 15 minutes)
+
+**Hands-on: Training an Encrypted Logistic Regression Model in the OpenFHE Framework** (10:55 - 11:40 | 45 minutes)
 
 - Implementing a naive logistic regression
 - Discussing pitfalls and weaknesses as well as optimizations
 - implementing the optimizations in a working fashion
 
-**Using an In-the-Clear Model in the OpenFHE Library** (20 minutes)
+**Using an In-the-Clear Model in the OpenFHE Library** (11:40 - 12:00 | 20 minutes)
 
 - Using a plaintext-trained model for encrypted inference
 - Performance comparison between CKKS inference and model trained under a separate encryption scheme
 
-**Potential Areas of Research** (ten minutes)
+**Potential Areas of Research** (12:00 - 12:30 | 30 minutes)
 
-- Introduction to the [FHERMA Project](https://fherma.io/challenges), a competition
+- Introduction to the [FHERMA Project](https://fherma.io/challenges), a competition platform for Fully Homomorphic Encryption (FHE) challenges 
+- Walking audience members through a challenge attempt.
 
 ## Pre-requisite Knowledge
 
