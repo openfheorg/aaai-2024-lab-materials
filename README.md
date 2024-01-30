@@ -17,19 +17,22 @@ The tutorial covers essential FHE concepts related to ML such as noise accumulat
 - Differential Privacy
 - Secure multi-party computation (MPC)
 
-**Spinning Up in Homomorphic Encryption** 8:45 - 9:45 (1 hour)
+**Spinning Up in Homomorphic Encryption for ML** 8:45 - 9:55 (1 hour 10 minutes)
 
-- Overview of FHE schemes
-- Overview of problem setups and collaboration scenarios
-- In-depth practitioner's introduction to the CKKS approximate-number scheme
-- In-depth practitioner's introduction to CKKS crypto-parameters and how they affect ML applications
+- Introduction to FHE
+- Classes of FHE schemes
+- FHE approaches for ML
+- Selected studies in PPML using FHE
+- Introduction to approximate FHE
 
-**Comparing and Contrasting OpenFHE to Existing FHE Libraries** 9:45 - 9:55 (10 minutes)
+**Q&A on FHE for ML** 9:55 - 10:10 (15 minutes)
 
-**The OpenFHE Library** 9:55 - 10:40 (45 minutes)
+**OpenFHE Library** 10:10 - 10:40 (30 minutes)
 
-- Discussion on the underlying design principles and inner workings
-- Discussion on the development plans including the NodeJS port, the Python port, and the Google Transpiler work
+- Underlying design principles and inner workings
+- High-level comparison with other libraries
+- Development plans, including the Python port and the Google Transpiler
+- Python example
 
 **Quick Break** 10:40 - 10:55 (15 minutes)
 
@@ -44,10 +47,11 @@ The tutorial covers essential FHE concepts related to ML such as noise accumulat
 - Using a plaintext-trained model for encrypted inference
 - Performance comparison between CKKS inference and model trained under a separate encryption scheme
 
-**Potential Areas of Research** 12:00 - 12:30 (30 minutes)
+**ML Applications and FHE Challenges** 12:00 - 12:30 (30 minutes)
 
+- ML Applications
 - Introduction to the [FHERMA Project](https://fherma.io/challenges), a competition platform for Fully Homomorphic Encryption (FHE) challenges 
-- Walking audience members through a challenge attempt.
+- Discussion on new FHE challenges
 
 ## Pre-requisite Knowledge
 
