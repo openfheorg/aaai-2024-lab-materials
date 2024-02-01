@@ -8,6 +8,19 @@ The tutorial covers essential FHE concepts related to ML such as noise accumulat
 
 # Material
 
+## Slides
+
+[OpenFHE AAAI 2024 Tutorial ](./AAAI_Tutorial.pptx)
+
+## Code
+
+[OpenFHE Python Logistic Regression Examples](https://github.com/openfheorg/python-log-reg-examples)
+
+contains code for:
+
+- a naive implementation of linear regression
+- an optimized logistic regression
+
 ## Tutorial Outline
 
 **Lab Discussion: Comparing and Contrasting PPML Methods** 8:30 - 8:45 (15 minutes)
@@ -50,7 +63,7 @@ The tutorial covers essential FHE concepts related to ML such as noise accumulat
 **ML Applications and FHE Challenges** 12:00 - 12:30 (30 minutes)
 
 - ML Applications
-- Introduction to the [FHERMA Project](https://fherma.io/challenges), a competition platform for Fully Homomorphic Encryption (FHE) challenges 
+- Introduction to the [FHERMA Project](https://fherma.io/challenges), a competition platform for Fully Homomorphic Encryption (FHE) challenges
 - Discussion on new FHE challenges
 
 ## Pre-requisite Knowledge
