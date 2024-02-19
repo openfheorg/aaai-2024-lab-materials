@@ -23,14 +23,19 @@ contains code for:
 
 ## Tutorial Outline
 
-**Lab Discussion: Comparing and Contrasting PPML Methods** 8:30 - 8:45 (15 minutes)
+**Introductory Words** 8:30 - 8:40 (10 minutes)
+
+- Agenda
+- Installation options
+
+**Lab Discussion: Comparing and Contrasting PPML Methods** 8:40 - 8:55 (15 minutes)
 
 - Federated Learning
 - Split Learning
 - Differential Privacy
 - Secure multi-party computation (MPC)
 
-**Spinning Up in Homomorphic Encryption for ML** 8:45 - 9:55 (1 hour 10 minutes)
+**Spinning Up in Homomorphic Encryption for ML** 8:55 - 9:55 (1 hour)
 
 - Introduction to FHE
 - Classes of FHE schemes
@@ -38,7 +43,7 @@ contains code for:
 - Selected studies in PPML using FHE
 - Introduction to approximate FHE
 
-**Q&A on FHE for ML** 9:55 - 10:10 (15 minutes)
+**Q&A on FHE for ML/Quick Break** 9:55 - 10:10 (15 minutes)
 
 **OpenFHE Library** 10:10 - 10:40 (30 minutes)
 
