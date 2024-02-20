@@ -54,16 +54,16 @@ contains code for:
 
 **Quick Break** 10:40 - 10:55 (15 minutes)
 
-**Hands-on: Training an Encrypted Logistic Regression Model in the OpenFHE Framework** 10:55 - 11:40 (45 minutes)
+**Hands-on: Using an In-the-Clear Model in the OpenFHE Library** 10:55 - 11:15 (20 minutes)
+
+- Using a plaintext-trained model for encrypted inference
+- Performance comparison between CKKS inference and model trained under a separate encryption scheme
+
+**Hands-on: Training an Encrypted Logistic Regression Model in the OpenFHE Framework** 11:15 - 12:00 (45 minutes)
 
 - Implementing a naive logistic regression
 - Discussing pitfalls and weaknesses as well as optimizations
 - implementing the optimizations in a working fashion
-
-**Using an In-the-Clear Model in the OpenFHE Library** 11:40 - 12:00 (20 minutes)
-
-- Using a plaintext-trained model for encrypted inference
-- Performance comparison between CKKS inference and model trained under a separate encryption scheme
 
 **ML Applications and FHE Challenges** 12:00 - 12:30 (30 minutes)
 
