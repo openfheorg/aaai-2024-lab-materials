@@ -10,7 +10,7 @@ The tutorial covers essential FHE concepts related to ML such as noise accumulat
 
 ## Slides
 
-[OpenFHE AAAI 2024 Tutorial ](./AAAI_Tutorial.pptx)
+[OpenFHE AAAI 2024 Tutorial ](./AAAI_Tutorial.pptx) and [OpenFHE AAAI 2024 Tutorial - Hands-on tips](./hands-on.pptx)
 
 ## Code
 
